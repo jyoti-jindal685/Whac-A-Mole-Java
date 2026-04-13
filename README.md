@@ -17,11 +17,15 @@ Speed increases as score increases
 Game ends when:
 Time runs out ⏳
 Player clicks the wrong tile ❌
+
+
 🛠️ Tech Stack
 Java (Core)
 Java Swing (GUI)
 Event Handling & Timers
 File Handling (High Score Storage)
+
+
 📂 Project Structure
 Whac-A-Mole-Java/
 │── WhacAMole.java
@@ -29,6 +33,8 @@ Whac-A-Mole-Java/
 │── piranha.jpg
 │── WhacAMoleHighScore.txt
 │── README.md
+
+
 ▶️ How to Run
 Clone the repository:
 git clone https://github.com/jyoti-jindal685/Whac-A-Mole-Java.git
@@ -50,7 +56,8 @@ Feature enhancement ideas
 🌐 Database (MySQL) for storing scores
 🎮 Multiplayer mode
 💡 Power-ups (bonus tiles, freeze time, etc.)
-👩‍💻 Author
 
+
+👩‍💻 Author
 Jyoti
 B.Tech CSE Student
