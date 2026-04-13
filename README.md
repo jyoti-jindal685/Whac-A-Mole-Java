@@ -37,9 +37,7 @@ cd Whac-A-Mole-Java
 Compile and run:
 javac WhacAMole.java
 java WhacAMole
-📸 Screenshots
 
-(Add screenshots here after uploading images to repo)
 
 🤖 AI Usage
 
