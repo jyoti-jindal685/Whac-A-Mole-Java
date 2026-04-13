@@ -31,7 +31,7 @@ Whac-A-Mole-Java/
 │── README.md
 ▶️ How to Run
 Clone the repository:
-git clone https://github.com/YOUR_USERNAME/Whac-A-Mole-Java.git
+git clone https://github.com/jyoti-jindal685/Whac-A-Mole-Java.git
 Navigate to the project folder:
 cd Whac-A-Mole-Java
 Compile and run:
