@@ -45,10 +45,6 @@ javac WhacAMole.java
 java WhacAMole
 
 
-🤖 AI Usage
-
-This project was developed with the assistance of AI tools for:
-
 Code debugging and optimization
 UI improvements
 Feature enhancement ideas
